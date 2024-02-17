@@ -1,2 +1,2 @@
 # Picgo_Pics
-Picgo图片同步图床
+Picgo图片同步图床(Public)
